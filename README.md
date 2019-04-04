@@ -3,12 +3,14 @@
 Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 
 ### [https://turkcekaynaklar.com](https://turkcekaynaklar.com)
+
 ### [KATKI ÇAĞRISI](/Katki-Cagrisi.md)
 
 ---
 
 
 ### Konu başlıkları
+
 - [Android](#android)
 - [Angular](#angular)
 - [ASP.NET](#aspnet)
@@ -62,10 +64,11 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
   - [Slack Grupları](#slack-grupları)
 
 
------
+---
 
 
 ### Android
+
 - [Mobilhanem](https://www.mobilhanem.com/)
 - [Junior Android Geliştiricilere Tavsiyeler](https://github.com/muratcanbur/medium-yazilarim) - [Murat Can BUR](https://twitter.com/muratcanbur)
 - [Android Günlüğü](http://yusufcakal.com/) - Yusuf Çakal
